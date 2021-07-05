@@ -1,6 +1,6 @@
 DESCRIPTION
 
-This is a reference code implementation to accompany the paper "Document Binarization with Automatic Parameter Tuning" by Nicholas R. Howe, to appear in the International Journal on Document Analysis and Recognition (DOI: 10.1007/s10032-012-0192-x).  Those using this code or work derived from it should include a citation to this paper.
+This is a reference code implementation to accompany the paper "Document Binarization with Automatic Parameter Tuning" by Nicholas R. Howe, to appear in the International Journal on Document Analysis and Recognition (DOI: 10.1007/s10032-012-0192-x/https://link.springer.com/content/pdf/10.1007/s10032-012-0192-x.pdf).  Those using this code or work derived from it should include a citation to this paper.
 
 The code is written in Matlab, but calls a graph cut solver mex-file that is written in C++ by V. Kolmogorov and available under a separate license.  The source code for this portion must be downloaded separately from http://pub.ist.ac.at/~vnk/software/maxflow-v3.01.src.tar.gz and compiled via Matlab's mex command.
 
